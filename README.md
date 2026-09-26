@@ -7,5 +7,5 @@ Accepted in Principle at Nature Communications
 ## Description for code and data folder
 
 * Data for the Non-spatial statistical analysis for Supplementary figure 9: nonspatial/
-* Data for Fig 6 and Supplementary figure 1: [Link](https://doi.org/10.5281/zenodo.22944774)
+* Data for Fig 6 and Supplementary figure 1: [Link](https://zenodo.org/records/22944774)
 * Code: organized for Figure 6, and Supplementary figures 1 and 9. 
